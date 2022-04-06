@@ -1038,7 +1038,7 @@ a {
   }
 }
 .cid-t27n5J7bvI {
-  background-image: url("../../../assets/images/blackartsviper-1333x1000.jpg");
+  background-image: url("../../../assets/images/eulogy-descripsi-1366x768.jpg");
 }
 .cid-t1VAc5oPrd {
   padding-top: 30px;
@@ -1046,9 +1046,35 @@ a {
   background-color: #000000;
   overflow: hidden;
 }
+.cid-t2efcAiNMy {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #000000;
+}
+.cid-t2efcAiNMy .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 1rem;
+  margin-right: .7rem;
+}
+.cid-t2efcAiNMy .social-row .soc-item .mbr-iconfont {
+  font-size: 32px;
+  border-radius: 50%;
+  padding: 0.6rem;
+  border: 2px solid #232323;
+  transition: all 0.3s;
+  color: #232323;
+}
+.cid-t2efcAiNMy .social-row .soc-item .mbr-iconfont:hover {
+  background-color: #232323;
+  color: #ffffff;
+}
+.cid-t2efcAiNMy .mbr-section-title {
+  color: #fafafa;
+}
 .cid-t1VLUtmY2H {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 1rem;
+  padding-bottom: 0rem;
   background-color: #fafafa;
 }
 .cid-t1VLUtmY2H .mbr-text {
@@ -1505,7 +1531,7 @@ a {
 }
 .cid-t27KvbakND {
   padding-top: 1rem;
-  padding-bottom: 6rem;
+  padding-bottom: 2rem;
   background-color: #fafafa;
 }
 .cid-t27KvbakND .card:not(:nth-last-child(1)) {
@@ -1947,8 +1973,8 @@ a {
   color: #fafafa;
 }
 .cid-t27uX0JSJG {
-  padding-top: 2rem;
-  padding-bottom: 4rem;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
 @media (min-width: 992px) {
@@ -2070,6 +2096,29 @@ a {
   .cid-t27uX0JSJG .carousel-indicators {
     display: none !important;
   }
+}
+.cid-t2efOUSGnh {
+  padding-top: 0rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+.cid-t2efOUSGnh .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 1rem;
+  margin-right: .7rem;
+}
+.cid-t2efOUSGnh .social-row .soc-item .mbr-iconfont {
+  font-size: 32px;
+  border-radius: 50%;
+  padding: 0.6rem;
+  border: 2px solid #232323;
+  transition: all 0.3s;
+  color: #232323;
+}
+.cid-t2efOUSGnh .social-row .soc-item .mbr-iconfont:hover {
+  background-color: #232323;
+  color: #ffffff;
 }
 .cid-t1VAc5oPrd {
   padding-top: 30px;
